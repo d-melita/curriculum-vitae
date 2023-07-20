@@ -1,0 +1,75 @@
+about:
+  name: Diogo Melita
+  tagline: Student, Computer Science and Engineering
+  email: dgmelita9@gmail.com
+  links:
+    - title: diogo-melita
+      url: https://tr.linkedin.com/in/diogo-melita
+      icon: fab fa-linkedin
+    - title: d-melita
+      url: https://github.com/d-melita
+      icon: fab fa-github
+    - title: dmelita.pt
+      url: https://melita.pt
+      icon: fas fa-mouse-pointer
+  details: |
+    I'm a first-year MSc. Computer Science and Engineering student, at Instituto Superior Técnico, interested in Cyber Security and Distributed Systems.
+
+skills:
+  - groupName: Programming
+    list:
+      - C
+      - C++
+      - Java
+      - JavaScript
+      - Python
+      - SQL
+      - Vue
+      - HTML
+
+  - groupName: OSs
+    list:
+      - Arch Linux
+      - Windows
+
+  - groupName: Tools & Software
+    list:
+      - Git (& GitLab, Github)
+      - VSCode
+      - OfficeTools
+
+languages:
+  - name: European Portuguese
+    level: Native
+
+  - name: English
+    level: Intermediate
+
+interests:
+  - list:
+    - Programming
+    - Sports
+    - Travel
+    - Music
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Futsal"
+    date: "2014 - 2020"
+    details: |
+      - Played as a federate player representing Associação Frassati in AF Lisboa.
+
+  - title: "Scouts"
+    date: "2009 - 2018"
+    details: |
+      - 834-Anjos, Corpo Nacional de Escutas (CNE).
+  
+  - title: "Guitar Course"
+    date: "2008 - 2012"
+    details: |
+      - Studied for 4 years in Clave & Som
+  
+  - title: "Piano Course"
+    date: "2012 - 2014"
+    details: |
+      - Studied for 2 years in Clave & Som

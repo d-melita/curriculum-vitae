@@ -1,0 +1,9 @@
+- name: "Msc. Computer Science and Engineering"
+  university: "Instituto Superior Técnico"
+  date: "Sep 2023 - Present"
+  gpa: ""
+
+- name: "Bsc. Computer Science and Engineering"
+  university: "Instituto Superior Técnico"
+  date: "Sep 2020 - Jun 2023"
+  gpa : "17 / 20"
