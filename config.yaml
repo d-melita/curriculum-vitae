@@ -77,15 +77,13 @@ params:
     credits: false
     footnote: >-
       You can print this resume in A4 size or save as pdf. | Last update on 2023-07-20.
-    links:
-      - prefix: Contact me on
-        title: Linkedin
+    links: 
+      - title: Linkedin
         url: 'https://linkedin.com/in/diogo-melita/'
         icon: fab fa-linkedin
       - title: Github
         url: "https://github.com/d-melita/"
         icon: fab fa-github
-      - prefix: Website
-        title: Website
+      - title: Website
         url: 'https://melita.pt'
         icon: fas fa-globe
