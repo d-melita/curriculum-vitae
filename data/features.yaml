@@ -12,8 +12,6 @@ about:
     - title: dmelita.pt
       url: https://melita.pt
       icon: fas fa-mouse-pointer
-  details: |
-    I'm a first-year MSc. Computer Science and Engineering student, at Instituto Superior Técnico, interested in Cyber Security and Distributed Systems.
 
 skills:
   - groupName: Programming
