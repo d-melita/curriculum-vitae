@@ -14,22 +14,20 @@ about:
       icon: fas fa-mouse-pointer
 
 skills:
-    
-  - name: C
-  - name: C++
-  - name: Java
-  - name: JavaScript
-  - name: Python
-  - name: SQL
-  - name: Vue
-  - name: HTML
-
-  - name: Arch Linux
-  - name: Windows
-
-  - name: Git (& GitLab, Github)
-  - name: VSCode
-  - name: OfficeTools
+  - list:
+    - C
+    - C++
+    - Java
+    - JavaScript
+    - Python
+    - SQL
+    - Vue
+    - HTML
+    - Arch Linux
+    - Windows
+    - Git (& GitLab, Github)
+    - VSCode
+    - OfficeTools
 
 languages:
   - name: Portuguese
