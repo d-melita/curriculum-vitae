@@ -58,7 +58,7 @@ params:
   side:
     - feature: skills
       widget: word-list
-      style: compact # list, compact, title-list
+      style: list # list, compact, title-list
     - feature: languages
     - feature: interests
       widget: word-list
