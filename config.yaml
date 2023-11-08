@@ -65,8 +65,6 @@ params:
       style: list
   pages:
     - features:
-        - feature: about
-          title: About Me
         - feature: experience
         - feature: education
         - feature: awards
