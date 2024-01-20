@@ -1,56 +1,64 @@
 about:
   name: Diogo Melita
-  tagline: Student, Computer Science and Engineering
-  email: dgmelita9@gmail.com
+  tagline: STUDENT, COMPUTER SCIENCE AND ENGINEERING
+  email: diogo@melita.pt
   links:
     - title: diogo-melita
-      url: https://linkedin.com/in/diogo-melita
+      url: https://pt.linkedin.com/in/diogo-melita
       icon: fab fa-linkedin
     - title: d-melita
       url: https://github.com/d-melita
       icon: fab fa-github
     - title: dmelita.pt
-      url: https://melita.pt
+      url: https://dmelita.pt
       icon: fas fa-mouse-pointer
+  details:
 
 skills:
-  - list:
-    - C
-    - C++
-    - Java
-    - JavaScript
-    - Python
-    - SQL
-    - Vue
-    - HTML
-    - Arch Linux
-    - Windows
-    - Git (& GitLab, Github)
-    - VSCode
-    - OfficeTools
+  - groupName: Programming
+    list:
+      - C
+      - C++
+      - Java
+      - JavaScript
+      - Python
+      - SQL
+
+  - groupName: OSs
+    list:
+      - Arch Linux
+      - Windows
+
+  - groupName: Tools & Software
+    list:
+      - Git
+      - Docker (& Docker Compose)
+      - Vim
+      - LaTeX
 
 languages:
-  - name: Portuguese
+  - name: European Portuguese
     level: Native
 
   - name: English
-    level: Intermediate - B2
-
-interests:
-  - list:
-    - Programming
-    - Sports
-    - Travel
-    - Music
+    level: B2
 
 # This will use the default widget: "details-list"
 awards:
-  - title: "Futsal"
-    date: "2014 - 2020"
+  - title: "Futsal - AEIST"
+    date: "2023 - Present"
     details: |
-      - Played as a federate player representing Associação Frassati in AF Lisboa.
-
+      - Currently part of the Student's Association futsal team of Técnico.
+  - title: "Futsal - Associação Frassati"
+    date: "2014-2020"
+    details: |
+      - Played as a member of the futsal team, fostering strong interpersonal relationships, teamwork, camaraderie among teammates, and developed leadership skills through captaincy and vice‑captaincy roles.
   - title: "Scouts"
-    date: "2009 - 2018"
+    date: "Sep 2009 - 2018"
     details: |
-      - 834-Anjos, Corpo Nacional de Escutas (CNE).
+      - Developed leadership skills and a sense of responsibility by leading scouting activities, including organizing events and mentoring younger scouts, while also honing problem-solving and decision-making abilities through challenging outdoor activities.
+
+certificates:
+  - title: "Academic Merit"
+    subtitle: Diploma for the 2021/2022 Academic Year
+    date: "2022"

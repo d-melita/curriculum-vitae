@@ -1,5 +1,7 @@
-- company: DSI @ Instituto Superior Técnico
+- company: 'Rede das Novas Licenciaturas - Computer Science Department, Instituto Superior Técnico'
   roles:
-    - role: Full Stack Developer
-      details: "As a part of a research initiation fellowship granted by IST, I was able to have my first contact with production-level application development, working on a platform that allows the university's community to submit standardized online forms, thereby easing the maintenance and sharing of the school's information."
+    - role: Research Initiation Fellowship
+      details: | 
+        - As a part of a research initiation fellowship granted by IST, I was able to have my first contact with production‑level application development, working on a platform used by around 10k people that allows the university’s community to create and submit standardized online forms, thereby easing the maintenance and sharing of the school’s information.
+        - Worked with diverse teams of five elements, including developers and designers, on a collaborative environment for brainstorming and idea exchange, to create user‑friendly forms, improving the submission process for the university community.
       date: "May 2023 -  Present"
