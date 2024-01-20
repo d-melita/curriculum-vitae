@@ -56,17 +56,16 @@ params:
     tagline: true
     links: true
   side:
+    - feature: education
     - feature: skills
       widget: word-list
-      style: list # list, compact, title-list
+      style: compact # list, compact, title-list
     - feature: languages
-    - feature: interests
-      widget: word-list
-      style: list
+
   pages:
     - features:
         - feature: experience
-        - feature: education
+        - feature: certificates
         - feature: awards
           title: Hobbies
              
