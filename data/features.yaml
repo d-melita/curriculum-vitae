@@ -23,6 +23,7 @@ skills:
       - JavaScript
       - Python
       - SQL
+      - Bash
 
   - groupName: OSs
     list:
@@ -56,9 +57,9 @@ awards:
   - title: "Scouts"
     date: "Sep 2009 - 2018"
     details: |
-      - Developed leadership skills and a sense of responsibility by leading scouting activities, including organizing events and mentoring younger scouts, while also honing problem-solving and decision-making abilities through challenging outdoor activities.
+      - Led scouting activities, organized events, and mentored younger scouts, developing leadership, responsibility, problem-solving, and decision-making skills through outdoor challenges.
 
 certificates:
   - title: "Academic Merit"
-    subtitle: Diploma for the 2021 / 2022 Academic Year
-    date: "2022"
+    subtitle: Diplomas for the 2021-2022 and 2022-2023 Academic years
+    date:
