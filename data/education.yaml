@@ -1,9 +1,20 @@
 - name: "Master's Degree Computer Science and Engineering"
   university: "Instituto Superior Técnico, Universidade de Lisboa"
-  date: "2023 - Present"
+  date: "Sep. 2023 - Present"
   avg: ""
 
 - name: "Bsc. Computer Science and Engineering"
   university: "Instituto Superior Técnico, Universidade de Lisboa"
-  date: "2020 - 2023"
+  date: "Oct. 2020 - Jul. 2023"
   avg: "17/20"
+#- name: "Futsal Player"
+#  university: "AEIST"
+#  date: "Oct 2023 - Present"
+#
+#- name: "Futsal Player"
+#  university: "Associação Frassati"
+#  date: "2014-2020"
+#
+#- name: "Scouts"
+#  university: "834-Anjos - CNE"
+#  date: "2008-2018"

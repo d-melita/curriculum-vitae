@@ -24,6 +24,7 @@ skills:
       - Python
       - SQL
       - Bash
+      - Solidity
 
   - groupName: OSs
     list:
@@ -36,6 +37,7 @@ skills:
       - Docker (& Docker Compose)
       - Vim
       - LaTeX
+      - Web3JS
 
 languages:
   - name: European Portuguese
@@ -55,7 +57,7 @@ awards:
     details: |
       - Played as a member of the futsal team, fostering strong interpersonal relationships, teamwork, camaraderie among teammates, and developed leadership skills through captaincy and vice‑captaincy roles.
   - title: "Scouts"
-    date: "Sep 2009 - 2018"
+    date: "2009 - 2018"
     details: |
       - Led scouting activities, organized events, and mentored younger scouts, developing leadership, responsibility, problem-solving, and decision-making skills through outdoor challenges.
 
